@@ -9,5 +9,5 @@ This project uses a dataset in CSV format and applies Machine Learning steps:
 Files included:
 - dataset.csv
 - notebook.ipynb
-- report.pdf (coming soon)
+- report.pdf 
 
